@@ -15,9 +15,9 @@ yarn
 npm install
 ```
 
-### 3. Start the app in development mode (hot-code reloading, error reporting, etc.)
+## 3. Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
 ```
 
-
+The app should then deploy to localhost. Your console will have information on which port the app is deployed in.
