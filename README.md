@@ -20,5 +20,5 @@ quasar dev
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+### Try Online
+Try the app online [here](https://ravinojuwono.com/tapbpm).
